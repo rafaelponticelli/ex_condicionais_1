@@ -1,0 +1,15 @@
+Faça um progama que recebe o salário de colaborador e o reajuste segundo o seguinte criterio,baseado no saláro atual:
+
+a)Salário até R$ 1280,00 (incluindo): aumento de 20%
+b)Salário entre R$ 1280,00 e R$ 1700,00 : aumento de 15%
+c)Salário entre R$ 1700,00 e R$ 2500,00 : aumento de 10% 
+d)Salário de R$ 2500,00 em diante : de 5% 
+        
+        Após o aumento ser realizado,informe na tela :
+
+a) O salário antes do reajuste;
+b) O percentual de aumento aplicado;
+c) O valor do aumento;
+d) O novo salário,após o aumento.
+
+
